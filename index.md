@@ -1,4 +1,4 @@
-# Pickle
+# Pickling and Structured Error Handling
 ## IntroToProg-Python Assignment 7
 
 ### Introduction
