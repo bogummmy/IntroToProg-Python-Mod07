@@ -1,3 +1,10 @@
+# ---------------------------------------------------------------------------- #
+# Title: Assignment 07
+# Description: Picking, Unpickling and Structured Error Handling
+# ChangeLog (Who,When,What):
+# PYChang, 11.30.2020,Modified code to complete assignment 7
+# ---------------------------------------------------------------------------- #
+
 import pickle
 
 # Data -------------------------#
@@ -50,4 +57,5 @@ store_data_to_file(strFileName, christmas_list)
 
 # read data from the file - unpickle #
 print(read_data_from_file(strFileName))
+
 
